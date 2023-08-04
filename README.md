@@ -1,0 +1,3 @@
+# Fundamentals_JS_Part_1
+Here we discussed about the fundamentals of javascript .. like Data types like String, Boolean, Null , Undefined,Number , NaN, Obeject,
+and Operators , Decision making template literals, Ternary (Conditional) Operation etc...
