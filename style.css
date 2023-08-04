@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(104, 216, 104);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align:  center;
+    font-family: Georgia, serif;
+}
+p{
+    text-align: center;
+   font-family: Georgia, serif;
+    font-weight: bold;
+
+
+}
